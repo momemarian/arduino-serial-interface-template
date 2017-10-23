@@ -1,0 +1,3 @@
+[submodule "dev-utils"]
+	path = dev-utils
+	url = https://github.com/momemarian/dev-utils.git
